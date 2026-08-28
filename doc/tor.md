@@ -1,4 +1,4 @@
-# TOR SUPPORT IN LITECOIN
+# TOR SUPPORT IN TERANOCOIN
 
 It is possible to run Teranocoin Core as a Tor onion service, and connect to such services.
 
