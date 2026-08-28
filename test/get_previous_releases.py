@@ -117,7 +117,7 @@ def download_binary(tag, args) -> int:
 
 
 def build_release(tag, args) -> int:
-    githubUrl = "https://github.com/teranocoin-project/teranocoin"
+    githubUrl = "https://github.com/teranocoin/teranocoin"
     if args.remove_dir:
         if Path(tag).is_dir():
             shutil.rmtree(tag)

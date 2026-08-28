@@ -9,7 +9,7 @@ activation height described below.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/teranocoin-project/teranocoin/issues>
+  <https://github.com/teranocoin/teranocoin/issues>
 
 Notable changes
 ===============

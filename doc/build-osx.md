@@ -66,7 +66,7 @@ brew install berkeley-db4
 
 1. Clone the Teranocoin Core source code:
     ```shell
-    git clone https://github.com/teranocoin-project/teranocoin
+    git clone https://github.com/teranocoin/teranocoin
     cd teranocoin
     ```
 

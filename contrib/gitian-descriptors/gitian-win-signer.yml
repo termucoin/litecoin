@@ -12,7 +12,7 @@ packages:
 - "libtool"
 - "pkg-config"
 remotes:
-- "url": "https://github.com/teranocoin-project/teranocoin-detached-sigs.git"
+- "url": "https://github.com/teranocoin/teranocoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "osslsigncode-2.0.tar.gz"
