@@ -8,7 +8,7 @@ import errno
 import http.client
 from decimal import Decimal
 
-from test_framework.ltc_util import setup_mweb_chain
+from test_framework.terano_util import setup_mweb_chain
 from test_framework.messages import CBlock, FromHex
 from test_framework.test_framework import BitcoinTestFramework
 from test_framework.util import assert_equal

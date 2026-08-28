@@ -6,7 +6,7 @@
 
 import copy
 
-from test_framework.ltc_util import setup_mweb_chain
+from test_framework.terano_util import setup_mweb_chain
 from test_framework.messages import CBlock, CBlockHeader, FromHex, Hash, msg_block, msg_headers
 from test_framework.p2p import P2PDataStore
 from test_framework.test_framework import BitcoinTestFramework
