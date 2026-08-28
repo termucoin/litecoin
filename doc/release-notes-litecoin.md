@@ -1,6 +1,6 @@
-Litecoin Core version 0.21.5.6 is now available from:
+Litecoin Core version 0.1.0 is now available from:
 
- <https://download.litecoin.org/litecoin-0.21.5.6/>.
+ <https://download.litecoin.org/litecoin-0.1.0/>.
 
 This is an urgent maintenance release that strengthens MWEB transaction,
 block, and P2P-service validation. Upgrading is strongly recommended for all
@@ -35,7 +35,7 @@ MWEB security and reliability
 Consensus change
 ----------------
 
-At mainnet height **3,154,440**, nodes running 0.21.5.6 will reject an MWEB
+At mainnet height **3,154,440**, nodes running 0.1.0 will reject an MWEB
 block containing a kernel that signals a pegout while carrying an empty pegout
 list. This is a soft-forking consensus rule. The height is approximately one
 week (4,032 blocks) after height 3,150,408.
