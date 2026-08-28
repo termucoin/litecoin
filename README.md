@@ -1,9 +1,6 @@
-Teranocoin Core integration/staging tree
+Teranocoin Core
 =====================================
 
-[![Build Status](https://travis-ci.org/teranocoin-project/teranocoin.svg?branch=master)](https://travis-ci.org/teranocoin-project/teranocoin)
-
-https://teranocoin.org
 
 What is Teranocoin?
 ----------------
@@ -15,7 +12,7 @@ out collectively by the network. Teranocoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Teranocoin Core software, see [https://teranocoin.org](https://teranocoin.org).
+the Teranocoin Core software
 
 License
 -------
@@ -27,10 +24,10 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/teranocoin-project/teranocoin/tags) are created
+completely stable. [Tags](https://github.com/teranocoin/teranocoin/tags) are created
 regularly from release branches to indicate new official, stable release versions of Teranocoin Core.
 
-The https://github.com/teranocoin-project/gui repository is used exclusively for the
+The https://github.com/teranocoin/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
 repositories. Release branches and tags do not exist, so please do not fork
 that repository unless it is for development reasons.
